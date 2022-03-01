@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter, from the justices of the Kingdom of Ireland, to the Privy Council of Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06226</idno>
+            <idno type="STC">Wing T2615A</idno>
+            <idno type="STC">ESTC R185627</idno>
+            <idno type="EEBO-CITATION">52529028</idno>
+            <idno type="OCLC">ocm 52529028</idno>
+            <idno type="VID">179149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179149)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2778:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter, from the justices of the Kingdom of Ireland, to the Privy Council of Scotland.</title>
+                  <author>Cuningsbey, Thomas, fl. 1691.</author>
+                  <author>Porter, Charles, Sir, d. 1696.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by the heir of Andrew Anderson, printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Printed at Dublin ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Letter dated: Dublin-Castle, 25th of July 1691. Signed: Your lordships most humble servants, Charles Porter. Tho: Cuningsbey.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>With: A particular and full account of the routing the whole Irish army at Aghrim upon Sunday the 12th of July 1691. With a list of the principal persons that were killed and taken prisoner.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aughrim, Battle of, Aughrim, Galway, Ireland, 1691 --  Early works to 1800.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:179149:1"/>
+            <pb n="1" facs="tcp:179149:1" rendition="simple:additions"/>
+            <head>A True COPY of a LETTER, <hi>From the Juſtices of the Kingdom of</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>to the Privy Council of</hi> Scotland.</head>
+            <opener>
+               <dateline>Dated, <hi>Dublin-Caſtle,</hi> 
+                  <date>
+                     <hi>25th</hi> of <hi>July</hi> 1691.</date>
+               </dateline>
+               <salute>Our very good Lord,</salute>
+            </opener>
+            <p>WE herewith ſend your Lordſhip a particular Account of the late great Victory obtained againſt the <hi>Iriſh,</hi> and have this only to add, that the General being ſat down before <hi>Galway,</hi> writes us word the 22 inſtant, That the Fort being Storm'd without the Town the twentieth in the morning, the Town ſent out in the Afternoon to Treat, and Agreed to Sur<g ref="char:EOLhyphen"/>render on <hi>Sunday</hi> Morning next at ſix of the Clock, and im<g ref="char:EOLhyphen"/>mediatly all the Out-works were delivered in to our Poſſeſſi<g ref="char:EOLhyphen"/>on, and all their Cannon drawn from their Walls, and five Hoſtages delivered; We believe <hi>Limmerick</hi> is the next place he intends, though we have ſome reaſon to hope, they will ſoon capitulat. We are, my Lord,</p>
+            <closer>
+               <signed>Your Lordſhips moſt humble Servants,
+<list>
+                     <item>Charles Porter.</item>
+                     <item>Tho: Cuningsbey.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="2" facs="tcp:179149:2"/>
+            <head>
+               <hi>A Particular and Full Account of the Routing the whole</hi> Iriſh <hi>Army at</hi> Aghrim, <hi>upon</hi> Sun<g ref="char:EOLhyphen"/>day <hi>the 12th of</hi> July, 1691.</head>
+            <head type="sub">
+               <hi>With a Liſt of the Principal Perſons that were Killed and taken Priſoners.</hi>
+            </head>
+            <p>Publiſhed by Authority.</p>
+            <p>UPon <hi>Friday</hi> the <hi>10th</hi> inſtant, our Army moved from <hi>Ath<g ref="char:EOLhyphen"/>lone,</hi> and Encamped that night at <hi>Killcaſhell,</hi> 7 Miles nearer to the Enemy, whence the General went to view the Paſs at <hi>Ballynaſloe,</hi> and perceiving the Parties the Enemy had abroad to withdraw upon our advancing, he went on to <hi>Leagh,</hi> a large Mile beyond <hi>Ballynaſloe.</hi>
+            </p>
+            <p>Upon <hi>Saturday</hi> the <hi>11th,</hi> about 4 in the morning, we decam<g ref="char:EOLhyphen"/>ped, &amp; marched to <hi>Ballynaſloe,</hi> and encamped all long on the <hi>Roſcommon</hi> ſide of the River <hi>Suck;</hi> The General went to the Hills of <hi>Knockdunloe</hi> in the County of <hi>Galway,</hi> half a mile diſtant from our Camp, whence he could perceive the Enemies Out-Guards upon the Hills of <hi>Corbally,</hi> who upon our approach re<g ref="char:EOLhyphen"/>treated to the <hi>Isker</hi> of <hi>Liſcapull,</hi> two miles beyond <hi>Ballynaſloe,</hi> upon which he went forward to the Hills of <hi>Corbally,</hi> whence he could take a view of the Enemies Camp, which was formed be<g ref="char:EOLhyphen"/>yond <hi>Aghrim,</hi> about three miles beyond <hi>Ballynaſloe,</hi> and ex<g ref="char:EOLhyphen"/>tended it ſelf from the Church of <hi>Killcommodan</hi> on their right, to a place called <hi>Gurtnapory</hi> on the left, above 2 miles in length, a Mapp of which being drawn, it preſented it ſelf thus<hi>:</hi> On their left ran a ſmall Brook, having ſteep Hills and little Bogs on each ſide, next to which was a large red Bogg, almoſt a mile over, at the end of which ſtood the Caſtle of <hi>Aghrim,</hi> comman<g ref="char:EOLhyphen"/>ding the way to their Camp, which was paſſable no way for
+<pb n="3" facs="tcp:179149:2"/>
+Horſe, but juſt at the Caſtle, by reaſon of a River, which run<g ref="char:EOLhyphen"/>ning through a moiſt ground, made the whole a Moraſs or Bogg, which extended it ſelf all along to the Enemies right, where was alſo another Paſs called <hi>
+                  <g ref="char:V">Ʋ</g>rachree,</hi> having a riſing ground on each ſide of it<hi>:</hi> The Enemy encamped upon the ſide of a Hill very well Ditched, and the Ditches as well lined with Shot to the very edge of the Bogg, by which it appears they were ſo well poſted, as not to be eaſily attackt.</p>
+            <p>Upon <hi>Sunday, July</hi> 12, about 6 in the morning, we marcht, but Orders were given, that our Tents and Baggage ſhould re<g ref="char:EOLhyphen"/>main where they were; the Foot marched over the Bridge, the <hi>Engliſh</hi> and <hi>French</hi> Horſe and Dragoons, over the Foord above the Bridge, &amp; the <hi>Dutch</hi> &amp; <hi>Daniſh</hi> Horſe &amp; Dragoons over two Foords beneath the Church, with directions, as ſoon as they were over the River, to put themſelves in order of Battle which they did on the Lands of <hi>Garbally, Rathboy</hi> and <hi>Dunlow;</hi> in which order (the morning proving hazie) we ſtood till 11 at noon, when the General Commanding the Army to move forward, ad<g ref="char:EOLhyphen"/>vanced himſelf before the Army, to view the poſture of the E<g ref="char:EOLhyphen"/>nemy, and perceiving ſome of their out-Scouts upon the Hills, ordered a Party to beat them thence, upon whoſe advance the Enemy retired from Hill to Hill, within half a mile of the Camp, by which means the General had the opportunity from a high Hill on the right of the Enemy, to view their whole Camp, which he found Poſted, as before deſcribed; and that he was under a neceſſity of gaining a Paſs to the right of the Enemy, where he perceived ſome of them poſted, to which purpoſe he ordered a <hi>Daniſh</hi> Captain with 16 Horſe to force it, who being repulſed by the Enemy, the General ordered to be ſuccoured by 200 of Sir <hi>Albert Cunningham</hi>'s Dragoons, who having ſecured ſome Ditches near the ſaid Paſs, and having alſo briskly charg<g ref="char:EOLhyphen"/>ed the Enemy, obliged them to retire to a little Grove, whither the Enemy, ſeeing their danger, had ſent a freſh Party to ſu<g ref="char:EOLhyphen"/>ſtain them, which our General perceiving, ordered Collonel <hi>Eppinger</hi>'s Dragoons to get between them and their Camp,
+<pb n="4" facs="tcp:179149:3"/>
+which had been effected, but that it was too timely diſcovered by the Enemy, who had ſent out freſh Detachments enough to cut off our Dragoons, but they were quickly ſeconded by a Party of the Earl of <hi>Portland</hi>'s Horſe, who behaved themſelves with great bravery, but loſt ſeveral Men and Horſe in this part of the Action, upon which both ſides ſending freſh Detach<g ref="char:EOLhyphen"/>ments to ſuſtain their Parties, what at firſt was only a Skirmiſh, had by this time engaged a conſiderable Body, and after an hours Diſpute, obliged the Enemy to retire in great diſorder over the Brook that flanked the right of their Army, without any great loſs to us, though the Enemy all the while fired up<g ref="char:EOLhyphen"/>on us with ſome of their great Guns from the Hills of <hi>Killcom<g ref="char:EOLhyphen"/>modan.</hi>
+            </p>
+            <p>The General perceiving the diſorder of the Enemy, reſolved to attack them on their right Wing, by that means hoping to draw off the ſtrength of the Enemy to the Right, and then with our right Wing to fall in upon their left, and thereby en<g ref="char:EOLhyphen"/>gage their whole Army.</p>
+            <p>The left Wing of our Army being moſt Forraigners, was Commanded by his Highneſs the Duke of <hi>Wirtemberg,</hi> and the Right by the Major-Generals <hi>Maccay, Talmaſh</hi> and <hi>Ruvigny,</hi> the General himſelf with great diligence moving every where, gi<g ref="char:EOLhyphen"/>ving the neceſſary Orders, and ordering Reinforcements as he ſaw occaſion; About half an hour after 4 in the Afternoon our left Wing moved towards the Enemy, and by 5 were got up to their Ditches, well lined with the Enemies Muſqueteers, which (notwithſtanding their advantageous Poſt, and their defending themſelves better than uſually, or than indeed we expect<g ref="char:EOLhyphen"/>ed and the oppoſition made by the Lord <hi>Galway</hi>'s Regiment of Horſe, and the Royal Regiment of Foot ſo called) Our men ſoon forced and made them give ground, ſo that our General's deſign had its intended effect, in drawing off moſt of the Enemies Horſe from their Left to ſuccour their Right, which though it much damaged Colonel <hi>Earls</hi>'s, Colonel <hi>Herbert</hi>'s, and Colonel <hi>Fowlke</hi>'s
+<pb n="5" facs="tcp:179149:3"/>
+Regiments did yet facilitate the Attack of our Right Wing, which with a good Body of Horſe, Foot and Dragoons, forced the Paſs by <hi>Aghrim</hi> Caſtle, though defended by a Regiment of Dragoons, and ſo narrow, that our Horſe were forced to march it by a Defile of two a breaſt, receiving the Enemies Shot with no great loſs, till at laſt recovering the firm part of the Bogg our Men formed a Line, and ſome of them advanced under the Walls of the Caſtle, and lodged themſelves in a dry Ditch, though the Enemy poured Volleys of their ſmall Shot upon them; the reſt of that Brigade with great bravery attackt their Ditches, and preſſed ſo far upon the Enemy, beyond what they ought to have done, unleſs they had been ſupported with Horſe, that they were forced back to the Bogg, but when they were re-inforced by our Horſe (who charged through the Enemy with Sword in hand, as did alſo our Horſe on the left Wing) they drove the Enemy to the top of the Hill, where their Horſe and Foot mixed with ours, but after a ſhort diſpute we totally routed them, and beat their Horſe out of the Field, who never drew B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t for 7 miles, leaving their Foot to be cut in pieces. They began to run as it grew duskiſh, and our men purſued them about 4 miles<hi>:</hi> Their Foot were en<g ref="char:EOLhyphen"/>tirely broke, and thoſe who ran away, (after their uſual man<g ref="char:EOLhyphen"/>ner) threw away their Arms</p>
+            <p>
+               <hi>Aghrim</hi> Caſtle being taken, many there in were put to the Sword, and Colonel <hi>Bourke,</hi> his Major, 11 Officers and 40 private men were taken Priſoners.</p>
+            <p>Our General ſhewed extraordinary Conduct, Diligence and Bravery throughout this whole Action, Our Officers behaved themſelves with great Reſolution, and ſo did the Private Sol<g ref="char:EOLhyphen"/>diers, who were not in the leaſt daunted, notwithſtanding all the advantages which the Enemy had over them in number, in their ſtrong Entrenchments, or in the difficulty of attacking them. In ſhort, never did Army fight better, nor can we find Actions fitter to compare with this, than thoſe of their own for<g ref="char:EOLhyphen"/>mer
+<pb n="6" facs="tcp:179149:4"/>
+performance, <hi>viz.</hi> the forcing of the <hi>Boyne</hi> and <hi>Shannon.</hi>
+            </p>
+            <p>Our loſs, conſidering the greatneſs of the Action, was not very much, having but 62 killed, among whom were Major-Ge<g ref="char:EOLhyphen"/>neral <hi>Holſtaple,</hi> Colonel <hi>Herbert,</hi> Colonel <hi>Mongatts,</hi> Major <hi>De<g ref="char:EOLhyphen"/>veriſh,</hi> Major <hi>Pettit,</hi> Major <hi>Colt,</hi> Major <hi>Cornwall</hi> and Major <hi>Fox,</hi> with ſeveral Captains and Subalterns, and about 950 wound<g ref="char:EOLhyphen"/>ed, 4 parts of 5 whereof, will be eaſily cured, and ſoon fit for Service.</p>
+            <p>In this Action we took from the Enemy 11 Standards, 32 Colours, all their Cannon, Ammunition, Tents and Baggage. We killed alſo of the Enemy about 7000, and took about 450 Priſoners; The Principal of thoſe killed and taken Priſoners are as followeth, <hi>viz.</hi>
+            </p>
+            <list>
+               <head>PRISONERS.</head>
+               <item>
+                  <hi>General and Field-Officers Twenty Four,</hi> viz.
+<list>
+                     <item>
+                        <hi>Lord</hi> Duleek.</item>
+                     <item>
+                        <hi>Lord</hi> Slaine.</item>
+                     <item>
+                        <hi>Lord</hi> Buffin.</item>
+                     <item>
+                        <hi>Sir</hi> Nicolas Brown, <hi>common<g ref="char:EOLhyphen"/>ly called Lord</hi> Killmare.</item>
+                     <item>
+                        <hi>Major General</hi> Dorrington.</item>
+                     <item>
+                        <hi>Maj. Gen.</hi> John Hamilton.</item>
+                     <item>
+                        <hi>Brigadier</hi> Tuite.</item>
+                     <item>
+                        <hi>Coll.</hi> Walter Bourke.</item>
+                     <item>
+                        <hi>Coll.</hi> Gorden O Neal.</item>
+                     <item>
+                        <hi>Coll.</hi> Butler <hi>of</hi> Kil<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſh.</item>
+                     <item>
+                        <hi>Coll;</hi> O Conaell.</item>
+                     <item>
+                        <hi>Lieut, Col.</hi> Edmund Madden:</item>
+                     <item>
+                        <hi>Lieutenant Collonel</hi> John Chapell.</item>
+                     <item>
+                        <hi>Lieutenant Collonel</hi> John Butler.</item>
+                     <item>
+                        <hi>Lieut. Coll.</hi> Magennis.</item>
+                     <item>
+                        <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eut. Coll.</hi> Roſſiter.</item>
+                     <item>
+                        <hi>Lieut. Coll.</hi> Maguirt.</item>
+                     <item>
+                        <hi>Major</hi> Patrick Lawleſs.</item>
+                     <item>
+                        <hi>Major</hi> Kelly.</item>
+                     <item>
+                        <hi>Major</hi> Grace.</item>
+                     <item>
+                        <hi>Major</hi> William Bourke.</item>
+                     <item>
+                        <hi>Major</hi> Edmond Butler,</item>
+                     <item>
+                        <hi>Major</hi> Edmond Broghall,</item>
+                     <item>
+                        <hi>Major</hi> John Hewſon</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Captains Twenty-Six.</hi> viz.
+<list>
+                     <item>
+                        <hi>Walier</hi> Byrne.</item>
+                     <item>
+                        <hi>Walter</hi> Bourke.</item>
+                     <item>Hagan.</item>
+                     <item>Charles Mac Carty.</item>
+                     <item>Comyn.</item>
+                     <item>Mac Donagh.</item>
+                     <item>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>imon.</item>
+                     <item>Bellew.</item>
+                     <item>Fitz Patrick.</item>
+                     <item>Blanſhfield.</item>
+                     <item>Peter Anthony.</item>
+                     <item>James Garvan.</item>
+                     <item>Thomas Plunket.</item>
+                     <item>Huhbert Dillon,</item>
+                     <item>John Minnis.</item>
+                     <item>Shea.</item>
+                     <item>Tearn.</item>
+                     <item>Darby Grady.</item>
+                     <item>Miles Burke.</item>
+                     <item>John Gould.</item>
+                     <item>James Bater.</item>
+                     <item>Heugh Mac Dormot.</item>
+                     <item>Walter Blake.</item>
+                     <item>Walter Boukre.</item>
+                     <item>William Mac Evoy.</item>
+                     <item>Bryan Morphy.</item>
+                  </list>
+               </item>
+               <pb n="7" facs="tcp:179149:4"/>
+               <item>
+                  <hi>Lieutenants twenty four,</hi> viz.
+<list>
+                     <item>Henry O Neal.</item>
+                     <item>Thomas Walter.</item>
+                     <item>Edmond Brenan.</item>
+                     <item>Mac Carty.</item>
+                     <item>Purcel.</item>
+                     <item>Murphy.</item>
+                     <item>Mac Manus.</item>
+                     <item>Rafter.</item>
+                     <item>Mac Mahon.</item>
+                     <item>Daffy.</item>
+                     <item>Halluly.</item>
+                     <item>Quirke.</item>
+                     <item>Tobyn.</item>
+                     <item>Devy,</item>
+                     <item>Walſh.</item>
+                     <item>Walcott.</item>
+                     <item>Butler.</item>
+                     <item>Cahan.</item>
+                     <item>Bourke.</item>
+                     <item>Barry.</item>
+                     <item>Mac Loghlin.</item>
+                     <item>Cantlin.</item>
+                     <item>Dunn.</item>
+                     <item>Brody.</item>
+                  </list>
+               </item>
+               <item>Cornets five, Enſigns twenty three, Quarter-maſters four, <hi>viz.</hi>
+                  <list>
+                     <item>CORNETS.
+<list>
+                           <item>Edward Neile.</item>
+                           <item>Terenee Neile.</item>
+                           <item>Daulton.</item>
+                           <item>Jourdan.</item>
+                           <item>Quin.</item>
+                        </list>
+                     </item>
+                     <item>ENSIGNS.
+<list>
+                           <item>Ward.</item>
+                           <item>Fitz Patrick.</item>
+                           <item>Moore.</item>
+                           <item>Mac Loghlin.</item>
+                           <item>Lavallin.</item>
+                           <item>Paine.</item>
+                           <item>Freeman.</item>
+                           <item>Stretch.</item>
+                           <item>Verdon.</item>
+                           <item>Aylmer.</item>
+                           <item>Mac Loghlin.</item>
+                           <item>Lincy.</item>
+                           <item>Shane.</item>
+                           <item>Archdeacon.</item>
+                           <item>Meagher.</item>
+                           <item>Bourke.</item>
+                           <item>Bourke.</item>
+                           <item>Kelly.</item>
+                           <item>Mac Evoy.</item>
+                           <item>Daniel.</item>
+                           <item>Fleming.</item>
+                           <item>Daly.</item>
+                           <item>Loghlin.</item>
+                        </list>
+                     </item>
+                     <item>QUARTER-MASTERS.
+<list>
+                           <item>
+                              <hi>Byrne.</hi>
+                           </item>
+                           <item>
+                              <hi>Higgin.</hi>
+                           </item>
+                           <item>
+                              <hi>Mac Gwire.</hi>
+                           </item>
+                           <item>
+                              <hi>Bigly.</hi>
+                           </item>
+                           <item>
+                              <hi>Wholan.—</hi>Adjutant.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>General and Field Officers,</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Captains,</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Lieutenants,</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Enſigns,</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Cornets,</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Quarter-Maſters.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Adjutant,</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Officers Priſoners,</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Privste Soldiers, about</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="8" facs="tcp:179149:5"/>
+            <list>
+               <head>KILLED.</head>
+               <item>Lord <hi>Killmallock</hi>
+               </item>
+               <item>Lord <hi>Galway.</hi>
+               </item>
+               <item>Brigdier <hi>Connell.</hi>
+               </item>
+               <item>Brig. <hi>Will. Mansfield Barker.</hi>
+               </item>
+               <item>Brig, <hi>Hen, Mac John O Neal.</hi>
+               </item>
+               <item>Coll. <hi>Walter Nugent.</hi>
+               </item>
+               <item>Coll. <hi>Charles</hi> Moore, his Lieu<g ref="char:EOLhyphen"/>tenant Collonel and Major.</item>
+               <item>Coll. <hi>David Bourke.</hi>
+               </item>
+               <item>Coll. <hi>Ulick Bourke.</hi>
+               </item>
+               <item>Coll. <hi>Cohannaught Mac Guire.</hi>
+               </item>
+               <item>Coll. <hi>O Gara.</hi>
+               </item>
+               <item>Coll<g ref="char:punc">▪</g> 
+                  <hi>Arthur.</hi>
+               </item>
+               <item>Coll. <hi>Felix O Neil.</hi>
+               </item>
+               <item>Coll. <hi>Mahowny.</hi>
+               </item>
+               <item>Coll. <hi>Cormack O Neil.</hi>
+               </item>
+               <item>Lieut, Coll. <hi>Morgan:</hi>
+               </item>
+               <item>Major <hi>Purcell,</hi>
+               </item>
+               <item>Major <hi>O Donnel.</hi>
+               </item>
+               <item>Sir <hi>John Evirard.</hi>
+               </item>
+            </list>
+            <p>Beſides a great Number of Captains and Subaltern Officers.</p>
+            <p>Brigadier <hi>Talbor,</hi> AND Sir <hi>Morice Eustace,</hi> Both deſperately Wounded; but made their Eſcape to <hi>Limmerick.</hi>
+            </p>
+            <p>And 'tis generally reported, the <hi>French</hi> General St. <hi>Ruth</hi> was killed by a Great Shot.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Dublin,</hi> and Re-printed at <hi>Edinburgh,</hi> by the Heir of <hi>Andrew Anderſon,</hi> Printer to their moſt excellent Majeſties, <hi>Anno DOM.</hi> 1691.</p>
+            <pb facs="tcp:179149:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
